@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>jsonfile</artifactId>
-    <version>1.1.1-SNAPSHOT</version>
+    <version>1.1.1</version>
     <name>jsonfile</name>
     <description>WebJar for node-jsonfile</description>
     <url>http://webjars.org</url>
@@ -28,7 +28,7 @@
         <url>https://github.com/webjars/jsonfile</url>
         <connection>scm:git:https://github.com/webjars/jsonfile.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/jsonfile.git</developerConnection>
-        <tag>HEAD</tag>
+        <tag>jsonfile-1.1.1</tag>
     </scm>
 
     <developers>
